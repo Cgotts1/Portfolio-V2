@@ -18,6 +18,66 @@ li {
 } */
 
 .container {
-    display:inline-block;
+    display:flex;
+    border:solid;
+
+}
+
+
+/* ul{
+    display:flex;
     justify-content:flex-end;
+    border:solid;
+} */
+
+/* h1 {
+    display:flex;
+    border:solid;
+    
+} */
+
+ul {
+    display:flex;
+    justify-content: flex-end;
+    border:solid;
+    gap:20px;
+}
+
+li {
+    display:flex;
+    border:solid;
+    padding:20px;
+}
+
+.itembluebg {
+    width:100%;
+    border:solid;
+    z-index: -1;
+    margin:0;
+    position:absolute;
+}
+
+.profilepic {
+    border:solid;   
+}
+
+.imgtext {
+    display:flex;
+    border:solid;
+    width:min-content;
+
+    
+
+}
+
+h2 {
+    border:solid;
+}
+
+.aboutparagraph {
+    border:solid;
+}
+
+.work {
+    border:solid;
 }

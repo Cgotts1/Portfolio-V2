@@ -1,0 +1,23 @@
+/* .flex-item {
+    display:flex;
+    align-self:flex-start; 
+    
+     
+}
+
+ul {
+    display:flex;
+    justify-content:flex-end;
+}
+
+li {
+    display:flex;
+    justify-content:flex-end;
+    padding:10px;
+    
+} */
+
+.container {
+    display:inline-block;
+    justify-content:flex-end;
+}
